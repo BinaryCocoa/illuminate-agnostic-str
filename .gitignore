@@ -1,3 +1,7 @@
 build
 coverage
 /vendor
+composer.lock
+/.idea
+/.vscode
+/.phpunit.result.cache
